@@ -1,0 +1,1 @@
+// this page is dedicated the js part
